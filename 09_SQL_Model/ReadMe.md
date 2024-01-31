@@ -11,3 +11,5 @@ References:
 
 https://neon.tech/docs/guides/sqlalchemy
 
+### Install these Pacakages First:
+`pip install -r requirements.txt`
