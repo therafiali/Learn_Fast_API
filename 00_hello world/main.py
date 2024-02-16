@@ -1,9 +1,7 @@
 from fastapi import FastAPI
-
 # This line imports the FastAPI class from the fastapi module. FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
 app : FastAPI = FastAPI()
-
 # Here, an instance of the FastAPI class is created and assigned to the variable app. This app will be the main point of interaction with our web application.
 
 # This line is a decorator that tells FastAPI that the function below should be called when the user makes a GET request to the root URL (“/”) of the application.
