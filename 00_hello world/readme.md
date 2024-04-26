@@ -4,7 +4,7 @@
 
 Start Uvicorn with the command line:
     
-    uvicorn hello:app --reload
+    uvicorn main:app --reload
 
 Open in Browser:
 
